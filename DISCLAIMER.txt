@@ -1,0 +1,29 @@
+                             DISCLAIMER
+
+TetrisPhix does not hold any rights or copyright. This program is not
+subject to any copyright. You may use, modify and distribute the program as
+long as you provide the LICENSE and DISCLAIMER files included in the top
+level directory.
+
+This program was developed as part of a University assignment and is
+intended to be used solely for teaching, educational and demonstration
+purposes. No copyright infringement is intended and no monetization shall be
+made from this program.
+
+Under Section 107 of the Copyright Act 1976, allowance is made for fair use
+for purposes such as criticism, comment, news reporting, teaching,
+scholarship, and research. Fair use is a use permitted by copyright statute
+that might otherwise be infringing. Non-profit, educational or personal use
+tips the balance in favor of fair use.
+
+TetrisPhix, Phixyn and Alpeche Pancha are not affiliated with the Tetris
+trademark, Tetris Holding or The Tetris Company LLC.
+
+Tetris is a registered trademark and its rightful copyright holder is the
+Tetris Holding, who reserves all its rights.
+
+Tetris logos, Tetris theme song and Tetriminos are trademarks of the
+Tetris Holding.
+
+The Tetris trade dress is owned by Tetris Holding and licenses are issued
+by The Tetris Company LLC. Game Design by Alexey Pajitnov.
